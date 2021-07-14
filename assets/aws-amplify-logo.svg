@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2667px" height="2000px" viewBox="0 0 2667 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>amplify-logo</title>
+    <defs>
+        <linearGradient x1="29.0225634%" y1="0.256689112%" x2="72.5261716%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEC300" offset="0%"></stop>
+            <stop stop-color="#FFA900" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.1174997%" y1="9.61744282%" x2="65.9192858%" y2="97.9586239%" id="linearGradient-2">
+            <stop stop-color="#FEC300" offset="0%"></stop>
+            <stop stop-color="#FF9902" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.4575361%" y1="4.1273455%" x2="24.0276174%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFB103" offset="0%"></stop>
+            <stop stop-color="#FF9000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="93.3268111%" y1="50%" x2="0%" y2="52.411162%" id="linearGradient-4">
+            <stop stop-color="#FFAF38" offset="0%"></stop>
+            <stop stop-color="#FFAF38" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="amplify-logo" transform="translate(0.000000, 0.118805)">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="1149.34749 0 1517.49932 0 2667 1999.8812 2297.54701 1999.8812"></polygon>
+            <polyline id="Path" fill="url(#linearGradient-2)" points="861.150983 501.665761 1045.53297 180.881195 2091.06595 1999.8812 1721.34937 1999.8812"></polyline>
+            <polygon id="Triangle" fill="url(#linearGradient-3)" points="759.290302 678.881195 952.08059 1014.29437 577.135155 1666.00335 0 1999.8812"></polygon>
+            <polygon id="Triangle" fill="url(#linearGradient-4)" points="572.006354 1666.40408 1326.90313 1666.40408 1518.5806 1999.8812 0 1999.8812"></polygon>
+        </g>
+    </g>
+</svg>
